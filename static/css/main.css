@@ -2,3 +2,44 @@ body {
     margin: 0;
     font-family: sans-serif;
 }
+
+.title {
+    text-align: center;
+}
+
+.no-tasks {
+    text-align: center;
+    color: tomato;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+table, td, th {
+    border: 1px solid black;
+}
+
+.content {
+    margin: 0 auto;
+    width: 400px;
+}
+
+th {
+    height: 30px;
+}
+
+td {
+    text-align: center;
+    padding: 5px;
+}
+
+.form {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#content {
+    width: 70%;
+}
